@@ -1,71 +1,109 @@
 {
-	"name":"definition",
-	"thumbnail":"definition.png",
-	"screenshot":"definition.png",
-    "templateType":"standard",
-        "pageTypes": [
+    "name": "definition",
+    "thumbnail": "definition.png",
+    "screenshot": "definition-screenshot.jpg",
+    "templateType": "standard",
+    "pageTypes": [
         "home"
     ],
-        "images":[
+    "images": [
         "images/gallery/1.jpg",
         "images/gallery/2.jpg",
         "images/gallery/3.jpg"
     ],
     "tags": {
-    "en": ["clean", "technology", "white", "modern", "professional", "simple", "photography", "sans serif"],
-    "es": ["minimalista", "limpio", "fotografico", "vintage", "moderno", "oscuro", "estudio", "website", "creativo", "elegante", "profesional", "unico", "comunicacion", "sans-serif"],
-    "br": ["minimalista", "limpo", "fotografia", "vintage", "moderno", "escuro", "estúdio", "website", "criativo", "elegante", "profissional", "único", "mídia", "sans-serif"]
+        "en": [
+            "clean",
+            "technology",
+            "white",
+            "modern",
+            "professional",
+            "simple",
+            "photography",
+            "sans serif"
+        ],
+        "es": [
+            "minimalista",
+            "limpio",
+            "fotografico",
+            "vintage",
+            "moderno",
+            "oscuro",
+            "estudio",
+            "website",
+            "creativo",
+            "elegante",
+            "profesional",
+            "unico",
+            "comunicacion",
+            "sans-serif"
+        ],
+        "br": [
+            "minimalista",
+            "limpo",
+            "fotografia",
+            "vintage",
+            "moderno",
+            "escuro",
+            "est\u00fadio",
+            "website",
+            "criativo",
+            "elegante",
+            "profissional",
+            "\u00fanico",
+            "m\u00eddia",
+            "sans-serif"
+        ]
     },
-    "colorSwatches":
-    {
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#dadada",
-            "color3":"#222222",
-            "color4":"#222222",
-            "color5":"#000000",
-            "color6":"#000000",
-            "color7":"#d20e0e"
+            "color1": "#ffffff",
+            "color2": "#dadada",
+            "color3": "#222222",
+            "color4": "#222222",
+            "color5": "#000000",
+            "color6": "#000000",
+            "color7": "#d20e0e"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#dadada",
-            "color3":"#841c2f",
-            "color4":"#841c2f",
-            "color5":"#3c4a55",
-            "color6":"#841c2f",
-            "color7":"#000000"
+            "color1": "#ffffff",
+            "color2": "#dadada",
+            "color3": "#841c2f",
+            "color4": "#841c2f",
+            "color5": "#3c4a55",
+            "color6": "#841c2f",
+            "color7": "#000000"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#dadada",
-            "color3":"#4F7391",
-            "color4":"#4F7391",
-            "color5":"#3c4a55",
-            "color6":"#4F7391",
-            "color7":"#000000"
+            "color1": "#ffffff",
+            "color2": "#dadada",
+            "color3": "#4F7391",
+            "color4": "#4F7391",
+            "color5": "#3c4a55",
+            "color6": "#4F7391",
+            "color7": "#000000"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#dadada",
-            "color3":"#73AD5C",
-            "color4":"#73AD5C",
-            "color5":"#757575",
-            "color6":"#73AD5C",
-            "color7":"#000000"
+            "color1": "#ffffff",
+            "color2": "#dadada",
+            "color3": "#73AD5C",
+            "color4": "#73AD5C",
+            "color5": "#757575",
+            "color6": "#73AD5C",
+            "color7": "#000000"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#dadada",
-            "color3":"#4BA5A1",
-            "color4":"#4BA5A1",
-            "color5":"#3c4a55",
-            "color6":"#4BA5A1",
-            "color7":"#000000"
+            "color1": "#ffffff",
+            "color2": "#dadada",
+            "color3": "#4BA5A1",
+            "color4": "#4BA5A1",
+            "color5": "#3c4a55",
+            "color6": "#4BA5A1",
+            "color7": "#000000"
         }
     },
     "fontSwatch": {
-       "title": "Ubuntu",
+        "title": "Ubuntu",
         "font1": {
             "font-family": "\"Oswald\", Arial, sans-serif",
             "font-size": "30px",
@@ -116,7 +154,7 @@
             "color-hover": "@color-swatch1",
             "background-color": "@color-swatch7",
             "background-color-hover": "@color-swatch2"
-         },
+        },
         "font7": {
             "font-family": "\"Oswald\", Arial, sans-serif",
             "font-size": "14px",
